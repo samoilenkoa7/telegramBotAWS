@@ -1,0 +1,7 @@
+boto3
+requests-html
+python-telegram-bot
+
+# dev dependencies
+flake8
+flake8-bugbear
